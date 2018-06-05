@@ -1,0 +1,110 @@
+homebrew_repositories:
+  - caskroom/cask
+
+homebrew_packages:
+  - ag
+  - autoconf
+  - autojump
+  - automake
+  - cairo
+  - cmake
+  - coreutils
+  - curl
+  - czmq
+  - dnsmasq
+  - docker
+  - doxygen
+  - ffmpeg
+  - flac
+  - fontconfig
+  - fontforge
+  - freetype
+  - gdbm
+  - gettext
+  - gibo
+  - git
+  - gmp
+  - go
+  - gobject-introspection
+  - gradle
+  - graphite2
+  - harfbuzz
+  - htop
+  - icu4c
+  - io
+  - jmeter
+  - john
+  - jpeg
+  - jpeg-turbo
+  - lame
+  - lemon
+  - libevent
+  - libffi
+  - libidn2
+  - libmpc
+  - libogg
+  - libpng
+  - libsndfile
+  - libsodium
+  - libtiff
+  - libtool
+  - libunistring
+  - libvorbis
+  - libxml2
+  - libxslt
+  - libyaml
+  - mariadb
+  - mas
+  - maven
+  - mcrypt
+  - mhash
+  - mpfr
+  - nmap
+  - openssl
+  - openssl@1.1
+  - ossp-uuid
+  - pango
+  - pcre
+  - peco
+  - perl
+  - pixman
+  - pkg-config
+  - postgresql
+  - pwgen
+  - python
+  - re2c
+  - readline
+  - redis
+  - ripgrep
+  - ruby
+  - ruby-build
+  - scons
+  - sqlite
+  - swig
+  - telnet
+  - terraform
+  - tig
+  - tmux
+  - tree
+  - unixodbc
+  - utf8proc
+  - vim
+  - wget
+  - x264
+  - xvid
+  - xz
+  - yajl
+  - youtube-dl
+  - zeromq
+  - zplug
+  - zsh
+  - zsh-completions
+  - zsh-syntax-highlighting
+
+mas_applications: []
+#  - {name: 'Slack', store_hash: 803453959}
+#  - {name: 'CCMenu', store_hash: 603117688}
+#  - {name: 'Apple Configurator 2', store_hash: 1037126344}
+
+    
+# vim:ft=ansible:
