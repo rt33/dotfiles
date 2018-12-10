@@ -21,7 +21,7 @@
 #
 - name: tap external homebrew repositories
   homebrew_tap:
-    name: caskroom/cask
+    name: homebrew/cask
 
 - name: update homebrew
   homebrew: update_homebrew=yes

@@ -2,104 +2,120 @@ homebrew_repositories:
   - caskroom/cask
 
 homebrew_packages:
-  - ag
   - autoconf
-  - autojump
-  - automake
-  - cairo
-  - cmake
-  - coreutils
-  - curl
-  - czmq
-  - dnsmasq
-  - docker
-  - doxygen
-  - ffmpeg
-  - flac
-  - fontconfig
-  - fontforge
   - freetype
-  - gdbm
-  - gettext
-  - gibo
-  - git
-  - gmp
-  - go
-  - gobject-introspection
-  - gradle
-  - graphite2
-  - harfbuzz
-  - htop
   - icu4c
-  - io
-  - jmeter
-  - john
-  - jpeg
-  - jpeg-turbo
-  - lame
-  - lemon
-  - libevent
-  - libffi
-  - libidn2
-  - libmpc
-  - libogg
-  - libpng
-  - libsndfile
-  - libsodium
   - libtiff
-  - libtool
-  - libunistring
-  - libvorbis
-  - libxml2
-  - libxslt
-  - libyaml
-  - mariadb
-  - mas
-  - maven
-  - mcrypt
-  - mhash
-  - mpfr
-  - nmap
-  - openssl
-  - openssl@1.1
-  - ossp-uuid
-  - pango
-  - pcre
-  - peco
-  - perl
+  - mtr
   - pixman
-  - pkg-config
-  - postgresql
-  - pwgen
-  - python
-  - re2c
-  - readline
-  - redis
-  - ripgrep
-  - ruby
-  - ruby-build
-  - scons
   - sqlite
-  - swig
-  - telnet
-  - terraform
-  - tig
-  - tmux
-  - tree
-  - unixodbc
-  - utf8proc
-  - vim
-  - wget
-  - x264
   - xvid
+  - autojump
+  - fribidi
+  - jmeter
+  - libtool
+  - ncurses
+  - pkg-config
+  - swig
   - xz
+  - automake
+  - gdbm
+  - john
+  - libunistring
+  - nettle
+  - postgresql
+  - telnet
   - yajl
+  - cairo
+  - gettext
+  - jpeg
+  - libvorbis
+  - nmap
+  - pwgen
+  - terraform
   - youtube-dl
+  - cmake
+  - gibo
+  - jpeg-turbo
+  - libvpx
+  - oath-toolkit
+  - python
+  - the_silver_searcher
   - zeromq
-  - zplug
+  - coreutils
+  - git
+  - lame
+  - libxmlsec1
+  - openssl
+  - python@2
+  - theora
   - zsh
+  - curl
+  - glib
+  - lemon
+  - libyaml
+  - openssl@1.1
+  - re2c
+  - tig
   - zsh-completions
+  - czmq
+  - gmp
+  - libevent
+  - lua
+  - opus
+  - readline
+  - tmux
   - zsh-syntax-highlighting
+  - dnsmasq
+  - gnutls
+  - libffi
+  - mcrypt
+  - ossp-uuid
+  - redis
+  - tree
+  - zstd
+  - docker
+  - go
+  - libgcrypt
+  - mecab
+  - p11-kit
+  - ripgrep
+  - unixodbc
+  - doxygen
+  - gobject-introspection
+  - libgpg-error
+  - mecab-ipadic
+  - pango
+  - ruby
+  - utf8proc
+  - ffmpeg
+  - graphite2
+  - libidn2
+  - mecab-jumandic
+  - pcre
+  - ruby-build
+  - vim
+  - flac
+  - harfbuzz
+  - libogg
+  - mhash
+  - pcre2
+  - scons
+  - wget
+  - fontconfig
+  - htop
+  - libpng
+  - mkcert
+  - peco
+  - sdl2
+  - x264
+  - fontforge
+  - hub
+  - libtasn1
+  - mpfr
+  - perl
+  - snappy
+  - x265
 
 mas_applications: []
 #  - {name: 'Slack', store_hash: 803453959}
